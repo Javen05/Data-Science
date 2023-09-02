@@ -1,5 +1,5 @@
 # Data-Science
-Building supervised models to predict prices of bicycles and whether hit sales can be achieved, based on various environmental factors. The project also required me to build atleast 1 unsupervised model to understand the pattern of customers.
+Building supervised models to predict bicycle rentals for an hour and whether hit sales can be achieved, based on various environmental factors. The project also required me to build atleast 1 unsupervised model to understand the pattern of customers.
 
 - Background
 > After experiencing the lockdown and borders closure, restricting their movement, people have started to rediscover the beauty of their own local areas. This has resulted in a newfound appreciation for local places of interest, and people have been encouraged to explore their own backyards with public transport and find hidden gems they may not have otherwise discovered. One popular mode of transport is cycling. Ohaiyo Pte Ltd is a bicycle rental company in Japan seeking to expand their business such as purchasing more bicycles, have more outlets or hire more manpower. Such major decision needs to be backed up by data-driven evidence. Fortunately, Ohaiyo has collected data of past bicycle rentals. As a start, they would like to find out what are the factors that would affect the demands.
